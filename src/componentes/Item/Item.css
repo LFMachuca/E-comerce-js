@@ -1,0 +1,11 @@
+.product-card{
+    padding: 10px;
+    background: #474343;
+}
+.product-card-img{
+    width: 200px;
+}
+
+.hide{
+    display: none;
+}
